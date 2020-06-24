@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" nodeOrientation="LEFT_TO_RIGHT" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: linear-gradient(from 25% 25% to 100% 100%, rgba(105,224,255,1), rgba(255,255,255,1)); -fx-background-radius: 10; -fx-border-radius: 10;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kneu.ishi501.controller.ClientWindowController">
+    <children>
+        <Label alignment="CENTER" contentDisplay="CENTER" layoutX="10.0" layoutY="14.0" prefHeight="48.0" prefWidth="580.0" style="-fx-background-color: rgb(100,205,255); -fx-background-radius: 10; -fx-effect: dropshadow( one-pass-box , gray, 8 , 0.0 , 3 , 3 );" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="14.0">
+            <font>
+                <Font name="Vivaldi Italic" size="50.0" />
+            </font>
+        </Label>
+        <Pane layoutX="10.0" layoutY="100.0" prefHeight="199.0" prefWidth="580.0" style="-fx-background-color: rgb(100,205,255); -fx-effect: dropshadow( one-pass-box , gray, 8 , 0.0 , 5 , 10 ); -fx-background-radius: 7; -fx-border-color: rgb(38,148,255); -fx-border-radius: 7;" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="100.0">
+         <children>
+            <Text layoutX="14.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Стать:" wrappingWidth="79.6640625">
+               <font>
+                  <Font name="Arial" size="19.0" />
+               </font>
+            </Text>
+            <Text layoutX="14.0" layoutY="165.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Сімейний стан:" wrappingWidth="91.3236083984375">
+               <font>
+                  <Font name="Arial" size="19.0" />
+               </font>
+            </Text>
+            <Text layoutX="14.0" layoutY="106.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Вік:" wrappingWidth="79.6640625">
+               <font>
+                  <Font name="Arial" size="19.0" />
+               </font>
+            </Text>
+            <Text fx:id="gender" layoutX="148.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Стать:" wrappingWidth="107.6640625">
+               <font>
+                  <Font name="Calibri" size="19.0" />
+               </font>
+            </Text>
+            <Text fx:id="maritalStatus" layoutX="105.0" layoutY="163.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Сімейний стан:" textAlignment="CENTER" wrappingWidth="153.26409912109375">
+               <font>
+                  <Font name="Calibri" size="19.0" />
+               </font>
+            </Text>
+            <Text fx:id="age" layoutX="148.0" layoutY="105.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Вік:" wrappingWidth="107.6640625">
+               <font>
+                  <Font name="Calibri" size="19.0" />
+               </font>
+            </Text>
+            <Text layoutX="277.0" layoutY="37.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Сума кредиту:" wrappingWidth="112.609375">
+               <font>
+                  <Font name="Arial" size="19.0" />
+               </font>
+            </Text>
+            <Text layoutX="273.0" layoutY="163.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Погашення кредитів:" wrappingWidth="121.26409912109375">
+               <font>
+                  <Font name="Arial" size="19.0" />
+               </font>
+            </Text>
+            <Text layoutX="273.0" layoutY="96.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Термін кредиту:" wrappingWidth="121.26409912109375">
+               <font>
+                  <Font name="Arial" size="19.0" />
+               </font>
+            </Text>
+            <Text fx:id="amountOfCredit" layoutX="457.0" layoutY="48.0" strokeType="OUTSIDE" strokeWidth="0.0" text="сума" wrappingWidth="107.6640625">
+               <font>
+                  <Font name="Arial" size="19.0" />
+               </font>
+            </Text>
+            <Text fx:id="paymentOfPreviousCredits" layoutX="384.0" layoutY="166.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ненадійний" textAlignment="CENTER" wrappingWidth="195.6641845703125">
+               <font>
+                  <Font name="Arial" size="19.0" />
+               </font>
+            </Text>
+            <Text fx:id="durationOfCredit" layoutX="457.0" layoutY="106.0" strokeType="OUTSIDE" strokeWidth="0.0" text="термін" wrappingWidth="107.6640625">
+               <font>
+                  <Font name="Arial" size="19.0" />
+               </font>
+            </Text>
+            <Line endX="3.4000244140625" endY="185.20001220703125" layoutX="260.0" layoutY="13.0" startX="3.4000244140625" startY="-14.000015258789062" style="-fx-stroke: rgb(38,148,255);" />
+            <Line endX="465.4000244140625" endY="-1.52587890625E-5" layoutX="115.0" layoutY="76.0" startX="-115.0" startY="-1.52587890625E-5" style="-fx-stroke: rgb(38,148,255);" />
+            <Line endX="465.4000244140625" endY="-1.52587890625E-5" layoutX="115.0" layoutY="136.0" startX="-115.0" startY="-1.52587890625E-5" style="-fx-stroke: rgb(38,148,255);" />
+         </children>
+        </Pane>
+      <Button fx:id="back" layoutX="35.0" layoutY="336.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="130.0" style="-fx-font: bold 20pt &quot;Arial&quot;; -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );" text="Назад" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="calculate" layoutX="196.0" layoutY="330.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="208.0" style="-fx-font: bold 20pt &quot;Arial&quot;; -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );" text="Розрахувати" AnchorPane.bottomAnchor="20.0" AnchorPane.rightAnchor="20.0">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Text fx:id="fullName" layoutX="16.0" layoutY="60.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Іванов Сергій павлович" textAlignment="CENTER" wrappingWidth="566.62890625">
+         <font>
+            <Font name="Tahoma" size="31.0" />
+         </font>
+      </Text>
+    </children>
+</AnchorPane>

@@ -1,0 +1,8 @@
+.text{
+  	left: 0; right: 0; bottom: 1vh;
+  	color: #1C1C1C;
+  	text-align: center;
+  	text-transform: uppercase;
+  	letter-spacing: 0.5px;
+  	font: 700 9px/14px Tahoma, sans-serif;
+}
