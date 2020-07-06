@@ -12,15 +12,15 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
-        /*FXMLLoader loader = new FXMLLoader();
+        FXMLLoader loader = new FXMLLoader();
         loader.setLocation(getClass().getResource("fxml/main_window.fxml"));
         Parent root = loader.load();
         Scene scene = new Scene(root, 600, 400);
         primaryStage.setTitle("Клієнська база");
         primaryStage.setScene(scene);
         primaryStage.getIcons().add(new Image("/kneu/ishi501/style/image1.png"));
-        primaryStage.show();*/
-        FXMLService.fxmlService.goToAnotherWindow("fxml/main_window.fxml", "Клієнська база");
+        primaryStage.show();
+        //FXMLService.fxmlService.goToAnotherWindow("/fxml/main_window.fxml", "Клієнська база");
     }
 
     public static void main(String[] args) {

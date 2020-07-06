@@ -16,7 +16,7 @@ public class DbService {
     private MongoCollection openDbAndCollection(){
         MongoClient mongoClient = new MongoClient("localhost", 27017);
         MongoDatabase db = mongoClient.getDatabase("client");
-        MongoCollection collection = db.getCollection("scoringClient");
+        MongoCollection collection = db.getCollection("scoringClientq");
         return collection;
     }
 
