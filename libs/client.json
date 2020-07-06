@@ -1,0 +1,699 @@
+[{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4eda"
+  },
+  "id": 1,
+  "lastName": "МЕЛЬНИК",
+  "firstName": "АРТЕМ",
+  "patronymic": "ОЛЕГОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 36,
+  "paymentOfPreviousCredits": "no problems with current credits",
+  "amountOfCredit": 3003,
+  "maritalStatus": "single",
+  "age": 22
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4edb"
+  },
+  "id": 2,
+  "lastName": "ШЕВЧЕНКО",
+  "firstName": "АННА",
+  "patronymic": "СТЕПАНІВНА",
+  "gender": "female",
+  "durationOfCredit": 48,
+  "paymentOfPreviousCredits": "hesistant",
+  "amountOfCredit": 17085,
+  "maritalStatus": "single",
+  "age": 46
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4edc"
+  },
+  "id": 3,
+  "lastName": "БОЙКО",
+  "firstName": "ТИМОФІЙ",
+  "patronymic": "ІГОРОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 36,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 15363,
+"maritalStatus": "married",
+  "age": 24
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4edd"
+  },
+  "id": 4,
+  "lastName": "КОВАЛЕНКО",
+  "firstName": "АНДРІЙ",
+  "patronymic": "ОЛЕКСІЙОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 24,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 8986,
+  "maritalStatus": "divorced",
+  "age": 42
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ede"
+  },
+  "id": 5,
+  "lastName": "БОНДАРЕНКО",
+  "firstName": "БОГДАН",
+  "patronymic": "ОЛЕКСАНДРОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 24,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 1761,
+  "maritalStatus": "single",
+  "age": 23
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4edf"
+  },
+  "id": 6,
+  "lastName": "ТКАЧЕНКО",
+  "firstName": "МАРІЯ",
+  "patronymic": "МАКСИМІВНА",
+  "gender": "female",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 1451,
+  "maritalStatus": "single",
+  "age": 37
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee0"
+  },
+  "id": 7,
+  "lastName": "КОВАЛЬЧУК",
+  "firstName": "ЗЛАТА",
+  "patronymic": "АНАТОЛІЇВНА",
+  "gender": "female",
+  "durationOfCredit": 30,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 4351,
+  "maritalStatus": "married",
+  "age": 29
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee1"
+  },
+  "id": 8,
+  "lastName": "КРАВЧЕНКО",
+  "firstName": "СОЛОМІЯ",
+  "patronymic": "ПАВЛІВНА",
+  "gender": "female",
+  "durationOfCredit": 15,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 2151,
+  "maritalStatus": "single",
+  "age": 48
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee2"
+  },
+  "id": 9,
+  "lastName": "ОЛІЙНИК",
+  "firstName": "ЄВА",
+  "patronymic": "СЕРГІЇВНА",
+  "gender": "female",
+  "durationOfCredit": 15,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 2059,
+  "maritalStatus": "single",
+  "age": 33
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee3"
+  },
+  "id": 10,
+  "lastName": "ШЕВЧУК",
+  "firstName": "ДАРИНА",
+  "patronymic": "ВІКТОРІВНА",
+  "gender": "female",
+  "durationOfCredit": 27,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 3528,
+  "maritalStatus": "single",
+  "age": 21
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee4"
+  },
+  "id": 11,
+  "lastName": "КОВАЛЬ",
+  "firstName": "ХРИСТИНА",
+  "patronymic": "ВОЛОДИМИРІВНА",
+  "gender": "female",
+  "durationOfCredit": 24,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 5679,
+  "maritalStatus": "married",
+  "age": 41
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee5"
+  },
+  "id": 12,
+  "lastName": "ПОЛІЩУК",
+  "firstName": "ОСТАП",
+  "patronymic": "СЕРГІЙОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 18,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 1050,
+  "maritalStatus": "divorced",
+  "age": 25
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee6"
+  },
+  "id": 13,
+  "lastName": "БОНДАР",
+  "firstName": "СВЯТОСЛАВ",
+  "patronymic": "МИКОЛАЙОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 36,
+  "paymentOfPreviousCredits": "no problems with current credits",
+  "amountOfCredit": 6237,
+  "maritalStatus": "married",
+  "age": 28
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee7"
+  },
+  "id": 14,
+  "lastName": "ТКАЧУК",
+  "firstName": "ДМИТРО",
+  "patronymic": "МИХАЙЛОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 6,
+  "paymentOfPreviousCredits": "no problems with current credits",
+  "amountOfCredit": 2440,
+  "maritalStatus": "single",
+  "age": 32
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee8"
+  },
+  "id": 15,
+  "lastName": "МОРОЗ",
+  "firstName": "МАРІЯ",
+  "patronymic": "ОСТАПІВНА",
+  "gender": "female",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 2650,
+  "maritalStatus": "divorced",
+  "age": 27
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ee9"
+  },
+  "id": 16,
+  "lastName": "МАРЧЕНКО",
+  "firstName": "ЮРІЙ",
+  "patronymic": "СЕРГІЙОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 42,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 10032,
+  "maritalStatus": "married",
+  "age": 27
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4eea"
+  },
+  "id": 17,
+  "lastName": "ЛИСЕНКО",
+  "firstName": "МАРІЯ",
+  "patronymic": "ОЛЕГІВНА",
+  "gender": "female",
+  "durationOfCredit": 48,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 6703,
+  "maritalStatus": "single",
+  "age": 24
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4eeb"
+  },
+  "id": 18,
+  "lastName": "РУДЕНКО",
+  "firstName": "АННА",
+  "patronymic": "МАРКІВНА",
+  "gender": "female",
+  "durationOfCredit": 24,
+  "paymentOfPreviousCredits": "problematic running accounts",
+  "amountOfCredit": 2571,
+  "maritalStatus": "married",
+  "age": 32
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4eec"
+  },
+  "id": 19,
+  "lastName": "САВЧЕНКО",
+  "firstName": "ОЛЕКСАНДР",
+  "patronymic": "ДЕНИСОВИЧ",
+"gender": "male",
+  "durationOfCredit": 24,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 5429,
+  "maritalStatus": "married",
+  "age": 35
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4eed"
+  },
+  "id": 20,
+  "lastName": "ПЕТРЕНКО",
+  "firstName": "ВІКТОРІЯ",
+  "patronymic": "АНДРІЇВНА",
+  "gender": "female",
+  "durationOfCredit": 48,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 7533,
+  "maritalStatus": "single",
+  "age": 38
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4eee"
+  },
+  "id": 21,
+  "lastName": "КЛИМЕНКО",
+  "firstName": "ОЛЕГ",
+  "patronymic": "ТИМОФІЙОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 4758,
+  "maritalStatus": "single",
+  "age": 35
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4eef"
+  },
+  "id": 22,
+  "lastName": "КРАВЧУК",
+  "firstName": "ДЕНИС",
+  "patronymic": "МАРКІЯНОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 24,
+"paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 2839,
+  "maritalStatus": "single",
+  "age": 28
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef0"
+  },
+  "id": 23,
+  "lastName": "САВЧУК",
+  "firstName": "МАКСИМ",
+  "patronymic": "ОСТАПОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 18,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 7422,
+  "maritalStatus": "single",
+  "age": 34
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef1"
+  },
+  "id": 24,
+  "lastName": "ПАВЛЕНКО",
+  "firstName": "ТИМОФІЙ",
+  "patronymic": "МИХАЙЛОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 2637,
+  "maritalStatus": "single",
+  "age": 37
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef2"
+  },
+  "id": 25,
+  "lastName": "КУЗЬМЕНКО",
+  "firstName": "АНАСТАСІЯ",
+  "patronymic": "РОМАНІВНА",
+  "gender": "female",
+  "durationOfCredit": 10,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 1832,
+"maritalStatus": "single",
+  "age": 25
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef3"
+  },
+  "id": 26,
+  "lastName": "ШВЕЦЬ",
+  "firstName": "МАРІЯ",
+  "patronymic": "АРТЕМІВНА",
+  "gender": "female",
+  "durationOfCredit": 48,
+  "paymentOfPreviousCredits": "no problems with current credits",
+  "amountOfCredit": 10614,
+  "maritalStatus": "single",
+  "age": 29
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef4"
+  },
+  "id": 27,
+  "lastName": "ХАРЧЕНКО",
+  "firstName": "ДЕНИС",
+  "patronymic": "МАКСИМОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 24,
+  "paymentOfPreviousCredits": "no problems with current credits",
+  "amountOfCredit": 2889,
+  "maritalStatus": "divorced",
+  "age": 32
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef5"
+  },
+  "id": 28,
+  "lastName": "ІВАНОВ",
+  "firstName": "АРТЕМ",
+  "patronymic": "ДАНИЛОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 33,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 10154,
+  "maritalStatus": "single",
+  "age": 33
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef6"
+  },
+  "id": 29,
+  "lastName": "ПОНОМАРЕНКО",
+  "firstName": "СОЛОМІЯ",
+  "patronymic": "ДЕНИСІВНА",
+  "gender": "female",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 2193,
+  "maritalStatus": "married",
+  "age": 20
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef7"
+  },
+  "id": 30,
+  "lastName": "ВАСИЛЕНКО",
+  "firstName": "ОЛЕГ",
+  "patronymic": "КОНСТАНТИНОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 1617,
+  "maritalStatus": "divorced",
+  "age": 38
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef8"
+  },
+  "id": 31,
+  "lastName": "КУШНІР",
+  "firstName": "МАРКО",
+  "patronymic": "ІГОРОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 36,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 10997,
+  "maritalStatus": "divorced",
+  "age": 23
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4ef9"
+  },
+  "id": 32,
+  "lastName": "КРАВЕЦЬ",
+  "firstName": "БОГДАН",
+  "patronymic": "СЕРГІЙОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 1804,
+  "maritalStatus": "single",
+  "age": 19
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4efa"
+  },
+  "id": 33,
+  "lastName": "ІВАНОВ",
+  "firstName": "ТИМОФІЙ",
+  "patronymic": "ВАДИМОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 6,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 1636,
+  "maritalStatus": "single",
+  "age": 65
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4efb"
+  },
+  "id": 34,
+  "lastName": "ЯКОВЕНКО",
+  "firstName": "МАКСИМ",
+  "patronymic": "ЮРІЙОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 30,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 5948,
+  "maritalStatus": "divorced",
+  "age": 26
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4efc"
+  },
+  "id": 35,
+  "lastName": "ПРИХОДЬКО",
+  "firstName": "АНАСТАСІЯ",
+  "patronymic": "БОГДАНІВНА",
+  "gender": "female",
+  "durationOfCredit": 24,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 10350,
+  "maritalStatus": "single",
+  "age": 41
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4efd"
+  },
+  "id": 36,
+  "lastName": "ІЛЬЧЕНКО",
+  "firstName": "ДЕНИС",
+  "patronymic": "ОСТАПОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 16,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 3675,
+  "maritalStatus": "single",
+  "age": 41
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4efe"
+  },
+  "id": 37,
+  "lastName": "ПИЛИПЕНКО",
+  "firstName": "ДАРИНА",
+  "patronymic": "МАРКІВНА",
+  "gender": "female",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 1037,
+  "maritalStatus": "married",
+  "age": 20
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4eff"
+  },
+  "id": 38,
+  "lastName": "ПРОКОПЕНКО",
+  "firstName": "МАРКО",
+  "patronymic": "ОЛЕГОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 9,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 2987,
+  "maritalStatus": "single",
+  "age": 46
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f00"
+  },
+  "id": 39,
+  "lastName": "РИБАК",
+  "firstName": "ДІАНА",
+  "patronymic": "ЮРІЇВНА",
+  "gender": "female",
+  "durationOfCredit": 27,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 3598,
+  "maritalStatus": "divorced",
+  "age": 19
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f01"
+  },
+  "id": 40,
+  "lastName": "ЧАЙКА",
+  "firstName": "АРТЕМ",
+  "patronymic": "ІГОРОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 6,
+  "paymentOfPreviousCredits": "paid back",
+  "amountOfCredit": 1934,
+  "maritalStatus": "divorced",
+  "age": 26
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f02"
+  },
+  "id": 41,
+  "lastName": "ЯКИМЕНКО",
+  "firstName": "АНГЕЛІНА",
+  "patronymic": "ОЛЕКСАНДРІВНА",
+"gender": "female",
+  "durationOfCredit": 42,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 5551,
+  "maritalStatus": "single",
+  "age": 32
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f03"
+  },
+  "id": 42,
+  "lastName": "ТАРАСЮК",
+  "firstName": "СОЛОМІЯ",
+  "patronymic": "АНДРІЇВНА",
+  "gender": "female",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 2633,
+  "maritalStatus": "married",
+  "age": 42
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f04"
+  },
+  "id": 43,
+  "lastName": "ЧЕРНИШ",
+  "firstName": "ТИМОФІЙ",
+  "patronymic": "КОНСТАНТИНОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 9,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 2965,
+  "maritalStatus": "single",
+  "age": 35
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f05"
+  },
+  "id": 44,
+  "lastName": "КАЛІНІЧЕНКО",
+  "firstName": "МАРІЯ",
+  "patronymic": "КОНСТАНТИНІВНА",
+  "gender": "female",
+  "durationOfCredit": 15,
+"paymentOfPreviousCredits": "no problems with current credits",
+  "amountOfCredit": 2069,
+  "maritalStatus": "divorced",
+  "age": 31
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f06"
+  },
+  "id": 45,
+  "lastName": "ПІНЧУК",
+  "firstName": "МАКСИМ",
+  "patronymic": "ПЕТРОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 24,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 3738,
+  "maritalStatus": "single",
+  "age": 33
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f07"
+  },
+  "id": 46,
+  "lastName": "ДЕНИСЮК",
+  "firstName": "ОЛЕГ",
+  "patronymic": "МИКОЛАЙОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 12,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 1177,
+  "maritalStatus": "married",
+  "age": 21
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f08"
+  },
+  "id": 47,
+  "lastName": "ДУБИНА",
+  "firstName": "АНАСТАСІЯ",
+  "patronymic": "МАКСИМІВНА",
+  "gender": "male",
+  "durationOfCredit": 15,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 7453,
+  "maritalStatus": "married",
+  "age": 33
+},{  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f09"
+  },  "id": 48,
+  "lastName": "ДАНИЛЕНКО",
+  "firstName": "МАКСИМ",
+  "patronymic": "РОМАНОВИЧ",
+  "gender": "male",
+  "durationOfCredit": 27,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 4782,
+  "maritalStatus": "single",
+  "age": 25
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f0a"
+  },
+  "id": 49,
+  "lastName": "ВАСИЛЬЄВА",
+  "firstName": "СОФІЯ",
+  "patronymic": "СВЯТОСЛАВІВНА",
+  "gender": "female",
+  "durationOfCredit": 10,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 2129,
+  "maritalStatus": "divorced",
+  "age": 29
+},{
+  "_id": {
+    "$oid": "5eca7aa16ad1a928f0aa4f0b"
+  },
+  "id": 50,
+  "lastName": "ПАЛІЙ",
+  "firstName": "МАРІЯ",
+  "patronymic": "АРТЕМІВНА",
+  "gender": "female",
+  "durationOfCredit": 18,
+  "paymentOfPreviousCredits": "no previous credits",
+  "amountOfCredit": 1702,
+  "maritalStatus": "married",
+  "age": 21
+}]
